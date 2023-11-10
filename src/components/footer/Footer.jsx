@@ -22,7 +22,7 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    Hello welcome to ZAYDFLIX
+                    Hello Welcome to ZAYDFLIX!!!
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
